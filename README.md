@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**aviralyadav-rootshell/aviralyadav-rootshell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Aviral Yadav, an AppSec Engineer, Ethical Hacker , Pentester , Bug Bounty Hunter , Web Developer , Trainer , Blogger and Youtuber 🚀 from India, currently working for CMS Computer Pvt Ltd.
 
-Here are some ideas to get you started:
+Besides developing stuff and hacking , I enjoy playing chess , shooting , riding bike , playing games and travelling 🏝️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Talking about Personal Stuff:
+
+    🔭 I’m currently working as AppSec Engineer for CMS Computer Pvt Ltd.
+    🌱 I’m currently a AppSec Engineer, bug hunter and pentester.
+    👯 I’m looking to collaborate on Website Penetration Testing Projects, Bug Bounty Hunting or maybe on some other good projects
+    💬 Ask me about AppSec, Active Directory, Ethical Hacking , Cyber Security , Pentesting , Bug Bounty and Technology in general.
+    📫 How to reach me: aviral.yadav.work@gmail.com
+    ⚡ Eat 🔄 Sleep 🔄 Hack 🔄 Repeat
