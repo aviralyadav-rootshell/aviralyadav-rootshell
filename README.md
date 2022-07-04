@@ -17,7 +17,10 @@ Besides developing stuff and hacking , I enjoy playing chess , shooting , listen
 
 <img align="right" alt="GIF" src="https://imgur.com/gallery/bjG81PH" />
 
+[![undefined-Imgur.gif](https://i.postimg.cc/g0knXxXc/undefined-Imgur.gif)](https://postimg.cc/k2znLXvL)
+
 **Talking about Personal Stuff:**
+
 
 - 🔭 I’m currently working as AppSec Engineer for CMS Computer Pvt Ltd.
 - 🌱 I’m currently a AppSec Engineer, bug hunter and pentester.
