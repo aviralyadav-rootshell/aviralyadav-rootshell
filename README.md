@@ -15,7 +15,7 @@ Hi, I'm Aviral Yadav, an AppSec Engineer, Ethical Hacker , Pentester , Bug Bount
 
 Besides developing stuff and hacking , I enjoy playing chess , shooting , listening to music 🎧 , playing games and travelling 🏝️
 
-<img align="right" alt="Error" width="390" height="220" src="https://i.postimg.cc/g0knXxXc/undefined-Imgur.gif" />
+<img align="right" alt="Error" width="410" height="230" src="https://i.postimg.cc/g0knXxXc/undefined-Imgur.gif" />
 
 **Talking about Personal Stuff:**
 
