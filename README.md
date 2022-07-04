@@ -2,7 +2,7 @@
 <a href="https://twitter.com/aviralyadav">
   <img align="left" alt=" Aviral Yadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/anishka-shukla-341112156/">
+<a href="https://www.linkedin.com/in/aviral-yadav-rootshell/">
   <img align="left" alt="Aviral Yadav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/aviralyadav">
@@ -11,11 +11,11 @@
 <br />
 <br />
 
-Hi, I'm Aviral Yadav, an AppSec Engineer, Ethical Hacker , Pentester , Bug Bounty Hunter , Web Developer , Trainer , Blogger and Youtuber 🚀 from India, currently working for <a href ="http://kiit.ac.in/">CMS Computer Pvt Ltd.</a>
+Hi, I'm Aviral Yadav, an AppSec Engineer, Ethical Hacker , Pentester , Bug Bounty Hunter , Web Developer , Trainer , Blogger and Youtuber 🚀 from India, currently working for <a href ="https://www.cms.co.in/">CMS Computer Pvt Ltd.</a>
 
-Besides developing stuff and hacking , I enjoy playing chess :chess , shooting , listening to music 🎧 , riding bike , playing games and travelling 🏝️
+Besides developing stuff and hacking , I enjoy playing chess , shooting , listening to music 🎧 , riding bike , playing games and travelling 🏝️
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<img align="right" alt="GIF" src="https://imgur.com/gallery/bjG81PH" />
 
 **Talking about Personal Stuff:**
 
