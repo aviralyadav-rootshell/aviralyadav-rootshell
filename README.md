@@ -17,8 +17,6 @@ Besides developing stuff and hacking , I enjoy playing chess , shooting , listen
 
 <img align="right" alt="GIF" src="https://i.postimg.cc/g0knXxXc/undefined-Imgur.gif" />
 
-[![undefined-Imgur.gif](https://i.postimg.cc/g0knXxXc/undefined-Imgur.gif)](https://postimg.cc/k2znLXvL)
-
 **Talking about Personal Stuff:**
 
 
