@@ -45,7 +45,7 @@ Besides developing stuff and hacking , I enjoy playing chess , shooting , listen
 ![Anishka's github stats](https://github-readme-stats.vercel.app/api?username=aviralyadav-rootshell&show_icons=true&hide_border=true)
 
 </samp><br>
-[![Portfolio](https://img.shields.io/badge/-Aviral%20Yadav-02032e?style=flat&logo=gnu-bash&logoColor=white)](https://anishkashukla.com)
+[![Portfolio](https://img.shields.io/badge/-Aviral%20Yadav-02032e?style=flat&logo=gnu-bash&logoColor=white)](http://aviralyadav.online)
 [![Instagram](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/aviralyadav-rootshell)
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/aviralyadav-rootshell)
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)](https://github.com/aviralyadav-rootshell)
