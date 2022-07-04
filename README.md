@@ -46,12 +46,11 @@ Besides developing stuff and hacking , I enjoy playing chess , shooting , listen
 
 </samp><br>
 
-[![Portfolio](https://img.shields.io/badge/-Anishka%20Shukla-02032e?style=flat&logo=gnu-bash&logoColor=white)](https://anishkashukla.com)
-[![AS Security](https://img.shields.io/badge/-AS%20Security-11c28a?style=flat&logo=powershell&logoColor=white)](https://theassecurity.github.io)
-[![Instagram](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/_anishkashukla_)
-[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/anishkashukla)
-[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)](https://github.com/anishkashukla)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anishkashukla)
+[![Portfolio](https://img.shields.io/badge/-aviralyadav-rootshell-02032e?style=flat&logo=gnu-bash&logoColor=white)](https://aviralyadav-rootshell)
+[![Instagram](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/aviralyadav-rootshell)
+[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/aviralyadav-rootshell)
+[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)](https://github.com/aviralyadav-rootshell)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aviralyadav-rootshell)
 [![YouTube](https://img.shields.io/badge/-YouTube-FC2503?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5-rod7DAnKByoZmFjNZ4vg)
 [![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00)](https://www.hackthebox.eu/profile/109229)
-[![THM](https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=icloud&logoColor=white)](https://tryhackme.com/p/AnishkaShukla)
+[![THM](https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=icloud&logoColor=white)](https://tryhackme.com/p/aviralyadav-rootshell)
