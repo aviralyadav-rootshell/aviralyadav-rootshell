@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Aviral Yadav, an AppSec Engineer, Ethical Hacker , Pentester , Bug Bounty Hunter , Web Developer , Trainer , Blogger and Youtuber 🚀 from India, currently working for <a href ="https://www.cms.co.in/">CMS Computer Pvt Ltd.</a>
+Hi, I'm Aviral Yadav, an AppSec Engineer, Ethical Hacker , Pentester , Bug Bounty Hunter , Web Developer , Trainer , Blogger and Youtuber 🚀 from India, currently working for <a href ="https://www.emerson.com/">Emerson Electric</a>
 
 Besides developing stuff and hacking , I enjoy playing chess , shooting , listening to music 🎧 , playing games and travelling 🏝️
 
